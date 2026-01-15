@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Monkeys - Privacy Policy</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #333; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #3498db; padding-bottom: 10px; }
+        h2 { color: #2980b9; margin-top: 30px; padding-bottom: 5px; border-bottom: 1px solid #eee; }
+        .last-updated { color: #7f8c8d; font-style: italic; background: #f8f9fa; padding: 8px 12px; border-radius: 4px; display: inline-block; }
+        .contact-box { background: #e8f4fc; border-left: 4px solid #3498db; padding: 15px; margin: 20px 0; border-radius: 0 4px 4px 0; }
+        ul { padding-left: 20px; }
+        li { margin: 8px 0; }
+        .highlight { background: #fff3cd; padding: 2px 6px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <h1>🔒 Privacy Policy - Math Monkeys</h1>
+    <p class="last-updated">📅 Last Updated: December 25, 2023</p>
+    
+    <h2>📱 About This App</h2>
+    <p><strong>Math Monkeys</strong> is an educational math game designed specifically for children. Our app focuses on making learning multiplication and division fun through engaging gameplay.</p>
+    
+    <h2>🚫 Information We DO NOT Collect</h2>
+    <p>We take privacy seriously, especially for children's apps. <span class="highlight">We do NOT collect any personal information</span>:</p>
+    <ul>
+        <li>✅ <strong>No names or contact information</strong></li>
+        <li>✅ <strong>No email addresses or usernames</strong></li>
+        <li>✅ <strong>No location data or GPS</strong></li>
+        <li>✅ <strong>No photos, videos, or microphone access</strong></li>
+        <li>✅ <strong>No device identifiers</strong></li>
+        <li>✅ <strong>No advertising data</strong> (app contains no ads)</li>
+        <li>✅ <strong>No analytics or tracking data</strong></li>
+        <li>✅ <strong>No social media integration</strong></li>
+    </ul>
+    
+    <h2>💰 In-App Purchases</h2>
+    <p>The app includes an optional one-time purchase to unlock all features:</p>
+    <ul>
+        <li>🔐 <strong>Parental Gate Required</strong>: All purchases are protected by a math-based parental gate</li>
+        <li>💳 <strong>Secure Payments</strong>: Handled 100% by Apple through StoreKit</li>
+        <li>🗝️ <strong>No Payment Data Stored</strong>: We never see or store payment information</li>
+        <li>⚙️ <strong>Parental Controls</strong>: Can be disabled in device Settings → Screen Time</li>
+    </ul>
+    
+    <h2>👶 COPPA Compliance</h2>
+    <p>We fully comply with the Children's Online Privacy Protection Act (COPPA):</p>
+    <ul>
+        <li>🧒 <strong>Designed for children</strong> with age-appropriate content</li>
+        <li>🔒 <strong>Parental consent</strong> required for any purchases</li>
+        <li>📊 <strong>"Do Not Track" model</strong> implemented</li>
+        <li>👨‍👩‍👧‍👦 <strong>Parental rights</strong> to review or delete information</li>
+    </ul>
+    
+    <h2>🔗 Third-Party Services</h2>
+    <p>The app uses <strong>only Apple's StoreKit</strong> for in-app purchases. No other third-party services, SDKs, or frameworks are included.</p>
+    
+    <h2>🛡️ Data Security</h2>
+    <p>Since we collect zero user data, there is no data to secure, store, or protect.</p>
+    
+    <h2>📄 Policy Updates</h2>
+    <p>We may update this policy. The "Last Updated" date at the top indicates the most recent revision.</p>
+    
+    <h2>📧 Contact Information</h2>
+    <div class="contact-box">
+        <p>For privacy-related questions or concerns:</p>
+        <p>✉️ <strong>Email:</strong> [whbkilzieh@gmail.com]</p>
+        <p><small>Note: Please replace with your actual contact email before publishing</small></p>
+    </div>
+    
+    <hr>
+    <p><small>This privacy policy applies to Math Monkeys version 22.0 and higher.</small></p>
+</body>
+</html>
